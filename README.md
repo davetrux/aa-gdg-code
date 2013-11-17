@@ -1,7 +1,7 @@
-DevFest2013
+Ann Arbor GDG Nov 2013
 ===========
 
-Android Projects for my talk at Michigan Google Developers DevFest 2013
+Android Projects for my talk at Ann Arbor Google Developers Group in November 2013
 
 BadDroid is an example of how not to consume web services.
 
