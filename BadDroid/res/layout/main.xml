@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+    <TextView
+            android:text="Two"
+            android:id="@+id/uiTestText"
+            style="@style/DisplayText"/>
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/test_button"
+            android:id="@+id/testButton"
+            style="@style/UIButton"/>
+    <Button
+            android:text="UI Thread"
+            android:id="@+id/blockButton"
+            style="@style/BlockButton"/>
+    <Button
+            android:text="Async"
+            android:id="@+id/asyncButton"
+            style="@style/AsyncButton"/>
+    <TextView
+            style="@style/ResultText"
+            android:id="@+id/resultText"/>
+</RelativeLayout>
+
+
