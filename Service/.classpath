@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/JAX-RS"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Tomcat 7.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/AppEngine Dev"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/AppEngine API"/>
+	<classpathentry kind="output" path="out/production/DevFestService"/>
+</classpath>
