@@ -9,4 +9,4 @@ ServiceConsumer is a completed example of the concepts from the talk.
 
 Starter is a template project with many of the parts already added as a starting point for our coding exercise.
 
-[Slides for the talk](https://docs.google.com/presentation/d/1hyWLuk-tPb13W_HbVCD2uE9Hv4QHbjTiqtUgIinIwaw/edit?usp=sharing)
+[Slides for the talk](https://docs.google.com/presentation/d/18SHypa8gsy4lKt17Tf_ZM_SVM0LvOpPUqyxi4NrXp0E/edit?usp=sharing)
