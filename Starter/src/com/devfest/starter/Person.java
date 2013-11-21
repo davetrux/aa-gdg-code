@@ -1,5 +1,7 @@
 package com.devfest.starter;
 
+import android.os.Parcel;
+import android.os.Parcelable;
 import com.google.gson.annotations.SerializedName;
 
 public class Person {
@@ -45,4 +47,5 @@ public class Person {
     public void setGender(String gender) {
         this.mGender = gender;
     }
+
 }

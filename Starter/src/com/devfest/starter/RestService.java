@@ -1,11 +1,25 @@
 package com.devfest.starter;
 
-/**
- * Created with IntelliJ IDEA.
- * User: david
- * Date: 3/23/13
- * Time: 4:38 PM
- * To change this template use File | Settings | File Templates.
- */
-public class RestService {
+import android.app.Activity;
+import android.app.IntentService;
+import android.content.Intent;
+import android.net.Uri;
+import android.support.v4.content.LocalBroadcastManager;
+import android.util.Log;
+
+import java.io.IOException;
+
+
+public class RestService extends IntentService {
+
+
+    public RestService() {
+        super("RestService");
+    }
+
+    @Override
+    protected void onHandleIntent(Intent intent) {
+
+    }
+
 }
